@@ -44,3 +44,20 @@
     - Matriz Transpuesta
     - Llenar matriz con números aleatorios
     - Determinar si una matriz es simetrica
+7. Cadenas - Librería <string.h>
+    - Ejemplo de string, get y cin.getline
+	- Obtener longitud de una cadena -> strlen
+	- Copiar String (char) -> strcpy
+	- Comparar string (char) -> strcmp
+	- Concatenación de string (char) -> strcpy | strcat
+	- Invertir string (char) -> strrev
+	- Convertir string (char) en mayuscula -> strupr
+	- Convertir string (char) en minuscula -> strlwr
+	- Convertir char to int | float -> atoi | atof
+	- Ejemplo: Contar vocales de un string
+8. Métodos de ordenamiento
+	- Burbuja (directo)
+	- Insercción (directo)
+	- Shell (indirecto)
+	- QuickSort (Indirecto - más eficiente)
+	
