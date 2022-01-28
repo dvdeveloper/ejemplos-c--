@@ -60,4 +60,15 @@
 	- Insercción (directo)
 	- Shell (indirecto)
 	- QuickSort (Indirecto - más eficiente)
+9. Buscar datos en Arreglo
+	- Método secuencial (for)
+	- Método binario
+10. Uso de Struct
+	- Ejemplo básico struct
+	- Estructura anidada
+	- Struct: 1. Categoría de un corredor
+	- Struct: 2. Obtener mejor promedio de 3 alumnos
+	- Struct: 3. Obtener empleado con mayor y menor salario
+	- Struct: 4. Obtener atleta con el mayor número de medallas
+	- Struct: 5. Obtener promedio mejor alumno utilizando struct anidado
 	
